@@ -9,4 +9,6 @@ public interface Servico {
     public String getDescricao();
 
     public  Double getPreco();
+
+
 }
